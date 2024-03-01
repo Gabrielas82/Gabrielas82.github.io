@@ -1,2 +1,2 @@
 # Gabrielas82.github.io
-DEPLOY
+creado por GABRIELA SASTRE con ayuda de CHATGPT
